@@ -10,7 +10,7 @@ namespace Tyuiu.FilatovDK.Sprint0.Task2.V0.Test
             var name = "Денис";
             var res = DataService.GetMessage(name);
 
-            Assert.AreEqual("Привет, Денис", res);
+            Assert.AreEqual("Привет..., Денис", res);
         }
     }
 }
