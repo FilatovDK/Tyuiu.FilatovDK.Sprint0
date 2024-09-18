@@ -5,7 +5,13 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{16D41458-5455-466F-8756-645205C09BCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FilatovDK.Sprint0.Task0.V0", "Tyuiu.FilatovDK.Sprint0.Task0.V0\Tyuiu.FilatovDK.Sprint0.Task0.V0.csproj", "{B174E18C-277E-4A20-8A15-86D24B3679E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.FilatovDK.Sprint0.Task0.V0", "Tyuiu.FilatovDK.Sprint0.Task0.V0\Tyuiu.FilatovDK.Sprint0.Task0.V0.csproj", "{B174E18C-277E-4A20-8A15-86D24B3679E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "спринт#0", "спринт#0", "{5C069648-13B7-499C-92F2-E05E23B6B1E7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{6477928F-38D0-4E86-AA3A-F10B039AFC82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.FilatovDK.Task1.V0", "Tyuiu.FilatovDK.Task1.V0\Tyuiu.FilatovDK.Task1.V0.csproj", "{2E42FE55-57B0-4DAE-8059-08F761C8443E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +23,18 @@ Global
 		{B174E18C-277E-4A20-8A15-86D24B3679E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B174E18C-277E-4A20-8A15-86D24B3679E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B174E18C-277E-4A20-8A15-86D24B3679E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E42FE55-57B0-4DAE-8059-08F761C8443E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E42FE55-57B0-4DAE-8059-08F761C8443E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E42FE55-57B0-4DAE-8059-08F761C8443E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E42FE55-57B0-4DAE-8059-08F761C8443E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B174E18C-277E-4A20-8A15-86D24B3679E0} = {16D41458-5455-466F-8756-645205C09BCE}
+		{5C069648-13B7-499C-92F2-E05E23B6B1E7} = {16D41458-5455-466F-8756-645205C09BCE}
+		{2E42FE55-57B0-4DAE-8059-08F761C8443E} = {6477928F-38D0-4E86-AA3A-F10B039AFC82}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F3235BB-38D2-465E-B600-4DADEBE2F6BD}
